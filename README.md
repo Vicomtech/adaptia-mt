@@ -9,7 +9,7 @@ The corpus was created during the development of project ADAPT-IA (KK-2023/00035
 The suite includes two main Basque-Spanish datasets, in two separate folders:
 
 - ADAPTIA-MT-TERM: four termbases in TBX format, one for each industrial domain.
-- ADAPTIA-MT-TEST: professionally translated text from the selected industrial domains, aligned at both document and sentence levels. At the sentence level, the corpus is provided both with and without term annotation.
+- ADAPTIA-MT-TEST: professionally translated text from the selected industrial domains, aligned at both document and sentence levels. At the sentence level, the corpus is provided both with and without term annotation. Please contact us for access to the test data.
 
 ## Authors
 
